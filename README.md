@@ -36,7 +36,7 @@ If you wish to just develop locally and not deploy to Vercel, [follow the steps 
 
 2. Clone and install dependencies.
 
-3. Create a `.env.local` to `.env.local` and add the following:
+3. Create a `.env.local` and add the following:
 
    ```
    NEXT_PUBLIC_SUPABASE_URL=[INSERT SUPABASE PROJECT URL]
